@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://estorphol.github.io/sitemap
+Sitemap: https://estorphol.github.io/app/sitemap
+Sitemap: https://estorphol.github.io/assets/sitemap
+Sitemap: https://estorphol.github.io/css/sitemap
+Sitemap: https://estorphol.github.io/includes/sitemap
+Sitemap: https://estorphol.github.io/item/sitemap
+Sitemap: https://estorphol.github.io/src/sitemap
